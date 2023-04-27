@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PDF_Scanner</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="onboarding1">Scan all your documents quickly and easily</string>
+    <string name="onboarding2">You can also edit and customize scan results</string>
+    <string name="onboarding3">Organize your documents with PDF Scanner!</string>
+    <string name="pro1">Unlimited Access to All \n Premium Tools</string>
+    <string name="rs499">Rs 499 / 1 Month</string>
+    <string name="rs4500">Rs 4500 / Year (PKR 375 / Month) \n 7 Days Free Trial </string>
+    <string name="rs2999">Rs 2999 / Life-Time Purchase</string>
+    <string name="continue1">Continue</string>
+    <string name="privacypolicy">Privacy Policy</string>
+    <string name="termofuse">Terms of Use</string>
+
+
+</resources>
